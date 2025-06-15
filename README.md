@@ -1,15 +1,23 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XedoxDev&show_icons=true&locale=en&layout=compact" alt="XedoxDev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XedoxDev&show_icons=true&locale=en" alt="XedoxDev" /></p>
+<h1 align="center">Heloooo, I XEDOX</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XedoxDev&label=Profile%20views&color=0e75b6&style=flat" alt="XedoxDev" />
+  <i>Android Developer | Java | Linux | Git</i>
 </p>
 
-<h2 align="center">Skills</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XedoxDev&show_icons=true&theme=dark&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XedoxDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
+</p>
 
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,linux,c,cpp" alt="Skills Icons" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=XedoxDev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 🛠 Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,linux,c,cpp,git,github" alt="Skills"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XedoxDev&label=Profile+Views&color=lightgrey" alt="Profile Views"/>
 </p>
