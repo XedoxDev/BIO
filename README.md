@@ -1,7 +1,7 @@
-<h1 align="center">Heloooo, I XEDOX</h1>
+<h1 align="center">I XEDOX</h1>
 
 <p align="center">
-  <i>Android Developer | Java | Linux | Git</i>
+  <i>Java | Rust</i>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🛠 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,linux,c,cpp,git,github" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,linux,c,cpp,git,github,rust" alt="Skills"/>
 </p>
 
 <p align="center">
