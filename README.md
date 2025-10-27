@@ -9,13 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XedoxDev&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=XedoxDev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ### 🛠 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,linux,c,cpp,git,github,rust" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,linux,c,cpp,git,github,rust" alt="Skills"/>
 </p>
 
 <p align="center">
